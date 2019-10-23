@@ -1,0 +1,14 @@
+D:\Projekat2\Skola\bin\Debug\netcoreapp2.2\Skola.deps.json
+D:\Projekat2\Skola\bin\Debug\netcoreapp2.2\Skola.runtimeconfig.json
+D:\Projekat2\Skola\bin\Debug\netcoreapp2.2\Skola.runtimeconfig.dev.json
+D:\Projekat2\Skola\bin\Debug\netcoreapp2.2\Skola.dll
+D:\Projekat2\Skola\bin\Debug\netcoreapp2.2\Skola.pdb
+D:\Projekat2\Skola\obj\Debug\netcoreapp2.2\Skola.csprojAssemblyReference.cache
+D:\Projekat2\Skola\obj\Debug\netcoreapp2.2\Skola.csproj.CoreCompileInputs.cache
+D:\Projekat2\Skola\obj\Debug\netcoreapp2.2\Skola.RazorAssemblyInfo.cache
+D:\Projekat2\Skola\obj\Debug\netcoreapp2.2\Skola.RazorAssemblyInfo.cs
+D:\Projekat2\Skola\obj\Debug\netcoreapp2.2\Skola.AssemblyInfoInputs.cache
+D:\Projekat2\Skola\obj\Debug\netcoreapp2.2\Skola.AssemblyInfo.cs
+D:\Projekat2\Skola\obj\Debug\netcoreapp2.2\Skola.RazorTargetAssemblyInfo.cache
+D:\Projekat2\Skola\obj\Debug\netcoreapp2.2\Skola.dll
+D:\Projekat2\Skola\obj\Debug\netcoreapp2.2\Skola.pdb
